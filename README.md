@@ -15,7 +15,7 @@ RSME (root mean square error) method is used to evaluate the prediction quality.
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=RMSPE=&space;\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left&space;(&space;\frac{y_{i}-\hat{y_{i}}}{y_{i}}&space;\right&space;)^{2}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?RMSPE=&space;\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left&space;(&space;\frac{y_{i}-\hat{y_{i}}}{y_{i}}&space;\right&space;)^{2}}" title="RMSPE= \sqrt{\frac{1}{n}\sum_{i=1}^{n}\left ( \frac{y_{i}-\hat{y_{i}}}{y_{i}} \right )^{2}}" /></a>
 
-## Data Visualization, Result and Analysis
+## Data Visualization, Analysis and Modeling Results
 
 Please see the details in [RossmannStoreSales_prdeiction.pdf](https://github.com/Machikoo/RossmannStoreSales/blob/master/DataAnalysis_RossmannStoreSales%20.pdf)  
 
