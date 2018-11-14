@@ -13,7 +13,7 @@ This project used the Rossmann store sales data on Kaggle to analyed and built a
 ## Metrics
 RSME (root mean square error) method is used to evaluate the prediction quality. Equation is shown below:
 
-[equation]: https://raw.githubusercontent.com/Machikoo/RossmannStoreSales/master/image/matrics.jpg
+[equation](image/matrics.jpg)
 
 
 ## Analysis
