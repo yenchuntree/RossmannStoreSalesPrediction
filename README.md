@@ -20,9 +20,8 @@ RSME (root mean square error) method is used to evaluate the prediction quality.
 Please see the details in [RossmannStoreSales_prdeiction.pdf](https://github.com/Machikoo/RossmannStoreSales/blob/master/DataAnalysis_RossmannStoreSales%20.pdf)  
 
 ## Tools
-IPython
-Python Version: 2.7
-Python Libraries:
+### IPython/Python Version: 2.7
+### Python Libraries:
 * scikit-learn
 * pandas
 * numpy
