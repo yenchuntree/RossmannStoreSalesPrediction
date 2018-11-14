@@ -13,6 +13,8 @@ This project used the Rossmann store sales data on Kaggle to analyed and built a
 ## Metrics
 RSME (root mean square error) method is used to evaluate the prediction quality. Equation is shown below:
 
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left&space;(&space;\frac{y_{i}-\hat{y_{i}}}{y_{i}}&space;\right&space;)^{2}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left&space;(&space;\frac{y_{i}-\hat{y_{i}}}{y_{i}}&space;\right&space;)^{2}}" title="\sqrt{\frac{1}{n}\sum_{i=1}^{n}\left ( \frac{y_{i}-\hat{y_{i}}}{y_{i}} \right )^{2}}" /></a>
+
 <img src="image/matrics.jpg">
 
 
